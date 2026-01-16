@@ -1,0 +1,19 @@
+.contact{
+    padding: 60px;
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.btn{
+    color: #fff;
+    background-color: #f094237c;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    width: 50%;
+    
+}
