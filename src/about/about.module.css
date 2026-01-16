@@ -1,0 +1,22 @@
+.about{
+    padding: 100px 0;
+    background-color:#F4623A ;
+    display: flex;
+    flex-direction: column;
+    gap: 25px; 
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+}
+h2{
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+.btnStart{
+    color: #000000;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 50px;
+    border: none;
+}
